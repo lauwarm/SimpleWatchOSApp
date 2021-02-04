@@ -64,6 +64,7 @@
 		1F6FD4B225CC8657003C4E61 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F69C9E625C9552D00D7BB21 /* LandmarkList.swift */; };
 		1F6FD4B325CC8657003C4E61 /* SimpleWatchOSAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F69C9AC25C953D200D7BB21 /* SimpleWatchOSAppApp.swift */; };
 		1F6FD4B425CC8657003C4E61 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F69C9C625C9548E00D7BB21 /* Landmark.swift */; };
+		1F6FD4C125CC8B7F003C4E61 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F6FD4C025CC8B7F003C4E61 /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -159,6 +160,7 @@
 		1F69CA2C25C9584600D7BB21 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1F69CA2E25C9584600D7BB21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1F69CA2F25C9584600D7BB21 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		1F6FD4C025CC8B7F003C4E61 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -351,6 +353,7 @@
 				1F69CA2E25C9584600D7BB21 /* Info.plist */,
 				1F69CA2F25C9584600D7BB21 /* PushNotificationPayload.apns */,
 				1F69CA2B25C9584600D7BB21 /* Preview Content */,
+				1F6FD4C025CC8B7F003C4E61 /* LandmarkDetail.swift */,
 			);
 			path = "WatchOSApp Extension";
 			sourceTree = "<group>";
@@ -543,6 +546,7 @@
 				1F6FD4B225CC8657003C4E61 /* LandmarkList.swift in Sources */,
 				1F6FD4AA25CC8657003C4E61 /* Hike.swift in Sources */,
 				1F69CA2425C9584500D7BB21 /* NotificationController.swift in Sources */,
+				1F6FD4C125CC8B7F003C4E61 /* LandmarkDetail.swift in Sources */,
 				1F69CA2225C9584500D7BB21 /* ContentView.swift in Sources */,
 				1F69CA2825C9584500D7BB21 /* ComplicationController.swift in Sources */,
 				1F6FD4AE25CC8657003C4E61 /* ModelData.swift in Sources */,
